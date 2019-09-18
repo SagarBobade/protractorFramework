@@ -1,0 +1,47 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1568495206957' stop='1568495213413'>
+    <name>demo calculator</name>
+    <title>demo calculator</title>
+    <test-cases>
+        <test-case start='1568495206957' status='passed' stop='1568495211275'>
+            <name>should open calculator web app link</name>
+            <title>should open calculator web app link</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1568495211276' status='passed' stop='1568495211384'>
+            <name>should insert first number</name>
+            <title>should insert first number</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1568495211384' status='passed' stop='1568495211445'>
+            <name>should insert second number</name>
+            <title>should insert second number</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1568495211445' status='passed' stop='1568495211532'>
+            <name>should click go! button</name>
+            <title>should click go! button</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1568495211532' status='passed' stop='1568495213412'>
+            <name>should expect answer</name>
+            <title>should expect answer</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>

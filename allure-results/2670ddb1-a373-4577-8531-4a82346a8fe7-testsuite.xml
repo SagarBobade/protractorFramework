@@ -1,0 +1,87 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1568771415839' stop='1568771430067'>
+    <name>demo calculator</name>
+    <title>demo calculator</title>
+    <test-cases>
+        <test-case start='1568771415840' status='passed' stop='1568771420460'>
+            <name>should open calculator web app link</name>
+            <title>should open calculator web app link</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1568771420460' status='passed' stop='1568771420870'>
+            <name>should insert first number</name>
+            <title>should insert first number</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1568771420870' status='passed' stop='1568771421353'>
+            <name>should insert second number</name>
+            <title>should insert second number</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1568771421353' status='passed' stop='1568771421809'>
+            <name>should click go! button</name>
+            <title>should click go! button</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1568771421809' status='passed' stop='1568771423665'>
+            <name>should expect answer</name>
+            <title>should expect answer</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1568771423665' status='passed' stop='1568771426404'>
+            <name>should open calculator web app link</name>
+            <title>should open calculator web app link</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1568771426405' status='passed' stop='1568771426894'>
+            <name>should insert first number</name>
+            <title>should insert first number</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1568771426894' status='passed' stop='1568771427467'>
+            <name>should insert second number</name>
+            <title>should insert second number</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1568771427467' status='passed' stop='1568771428043'>
+            <name>should click go! button</name>
+            <title>should click go! button</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1568771428043' status='passed' stop='1568771430062'>
+            <name>should expect answer</name>
+            <title>should expect answer</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>

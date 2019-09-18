@@ -1,0 +1,60 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1568772985192' stop='1568772993391'>
+    <name>demo calculator</name>
+    <title>demo calculator</title>
+    <test-cases>
+        <test-case start='1568772985193' status='passed' stop='1568772989808'>
+            <name>should open calculator web app link</name>
+            <title>should open calculator web app link</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1568772989808' status='passed' stop='1568772990299'>
+            <name>should insert first number</name>
+            <title>should insert first number</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1568772990299' status='passed' stop='1568772990845'>
+            <name>should insert second number</name>
+            <title>should insert second number</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1568772990845' status='passed' stop='1568772991355'>
+            <name>should click go! button</name>
+            <title>should click go! button</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1568772991355' status='failed' stop='1568772993386'>
+            <name>should expect answer</name>
+            <title>should expect answer</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+            <failure>
+                <message>Expected '21' to equal '11'.</message>
+                <stack-trace>Error: Failed expectation
+                    at calculatorPage.expectAnswer (E:\StudyDrive\Protractor\ProtractorDemo\pages\CalculatorPage.js:28:30)
+                    at UserContext.&lt;anonymous> (E:\StudyDrive\Protractor\ProtractorDemo\tests\example_spec.js:22:27)
+                    at C:\Users\Sagar\AppData\Roaming\npm\node_modules\protractor\node_modules\jasminewd2\index.js:112:25
+                    at new ManagedPromise (C:\Users\Sagar\AppData\Roaming\npm\node_modules\protractor\node_modules\selenium-webdriver\lib\promise.js:1077:7)
+                    at ControlFlow.promise (C:\Users\Sagar\AppData\Roaming\npm\node_modules\protractor\node_modules\selenium-webdriver\lib\promise.js:2505:12)
+                    at schedulerExecute (C:\Users\Sagar\AppData\Roaming\npm\node_modules\protractor\node_modules\jasminewd2\index.js:95:18)
+                    at TaskQueue.execute_ (C:\Users\Sagar\AppData\Roaming\npm\node_modules\protractor\node_modules\selenium-webdriver\lib\promise.js:3084:14)
+                    at TaskQueue.executeNext_ (C:\Users\Sagar\AppData\Roaming\npm\node_modules\protractor\node_modules\selenium-webdriver\lib\promise.js:3067:27)
+                    at asyncRun (C:\Users\Sagar\AppData\Roaming\npm\node_modules\protractor\node_modules\selenium-webdriver\lib\promise.js:2927:27)</stack-trace>
+            </failure>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>
